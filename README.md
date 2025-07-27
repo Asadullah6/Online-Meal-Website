@@ -38,7 +38,7 @@ I'm a Computer Science student passionate about frontend development and user ex
 This project helped me practice layout, design, and responsive techniques using HTML and CSS.
 
 📧 Contact: [asadullahchanna454@gmail.com]
-💼 LinkedIn: linkedin.com/in/asadullah-channa-6b4611377/
+💼 LinkedIn: linkedin.com/in/asadullah-channa-6b4611377
 
 📜 License
 This project is for educational purposes only. Feel free to fork and modify for learning or portfolio use.
